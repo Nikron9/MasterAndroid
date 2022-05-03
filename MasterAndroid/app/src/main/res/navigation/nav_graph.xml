@@ -8,16 +8,15 @@
     <fragment
         android:id="@+id/FirstFragment"
         android:name="pn.masterandroid.FirstFragment"
-        android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
             app:destination="@id/SecondFragment" />
     </fragment>
+
     <fragment
         android:id="@+id/SecondFragment"
         android:name="pn.masterandroid.SecondFragment"
-        android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second" />
 </navigation>
