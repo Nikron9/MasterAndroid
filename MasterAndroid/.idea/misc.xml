@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/activity_main.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/complex_list_item_view_holder.xml" value="0.2796352583586626" />
         <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/content_main.xml" value="0.45652173913043476" />
-        <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/fragment_first.xml" value="0.33" />
         <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/layout/fragment_second.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/Nikron/Documents/Repos/mgr/MasterAndroid/MasterAndroid/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.575" />
       </map>
     </option>
   </component>

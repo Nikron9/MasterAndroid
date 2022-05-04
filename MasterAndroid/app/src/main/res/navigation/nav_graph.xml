@@ -8,12 +8,7 @@
     <fragment
         android:id="@+id/FirstFragment"
         android:name="pn.masterandroid.FirstFragment"
-        tools:layout="@layout/fragment_first">
-
-        <action
-            android:id="@+id/action_FirstFragment_to_SecondFragment"
-            app:destination="@id/SecondFragment" />
-    </fragment>
+        tools:layout="@layout/fragment_first" />
 
     <fragment
         android:id="@+id/SecondFragment"
